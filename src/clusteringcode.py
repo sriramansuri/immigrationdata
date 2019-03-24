@@ -4,7 +4,6 @@ from sklearn.preprocessing import LabelBinarizer
 from sklearn.cluster import KMeans
 from sklearn import metrics
 from scipy.spatial.distance import cdist
-import numpy as np
 import matplotlib.pyplot as plt0
 import matplotlib.pyplot as plt1
 import matplotlib.pyplot as plt2
